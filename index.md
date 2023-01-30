@@ -1,14 +1,14 @@
-### Hey, welcome on my personal page !
+## Hey, welcome on my personal page !
 
-## My scientific interests :
+### My scientific interests
 
 I am passionate about phenomena related to polar glaciers, and atmospheric physics, and powerful tools to study these physical processes such as numerical modelling and machine learning.
 
-## Currently :
+### Currently
 
 Postdoctoral researcher at the DLR, Weßling (close to Munich), working on Machine-Learning based automatic tuning of parameters in Atmosheric models, in Prof. Veronika Eyring's group. This position is funded by the ERC-Synergy USMILE, check our [website](https://www.usmile-erc.eu/dlr/) !  
    
-## PhD in Mechanical Modelling of the Source of Glacial Earthquakes in Polar Region : 
+### PhD in Mechanical Modelling of the Source of Glacial Earthquakes in Polar Region
 (octobre 2017 - june 2021)
 
   Evaluating glacier mass loss is a current concern to understand the rapid evolution of ice caps related to climate change. 
@@ -33,7 +33,7 @@ PhD Advisors : Anne Mangeney (http://www.ipgp.fr/~mangeney/), Olivier Castelnau 
 Affiliations : Seismology team of IPGP, Centre des Matériaux of Mines ParisTech, PIMM laboratory in ENSAM.
 
   
-## Publications :
+### Publications
 
 - A. Sergeant, A. Mangeney, V. A. Yastrebov, F. Walter, J.-P. Montagner, O. Castelnau, E. Stutzmann, P. Bonnet, V. J.-L. Ralaiarisoa, S. Bevan, A. Luckman, Monitoring Greenland ice-sheet buoyancy-driven calving discharge using glacial earthquakes, Annals of Glaciology, 60(000), 75–95, 2019 https://doi.org/10.1017/aog.2019.7
 
@@ -41,31 +41,31 @@ Affiliations : Seismology team of IPGP, Centre des Matériaux of Mines ParisTech
 
 - P. Bonnet, V.A. Yastrebov, A. Mangeney, O. Castelnau, P. Queutey, A. Leroyer, A. Sergeant, E. Stutzmann, J-P Montagner, Modelling the dynamics of iceberg - glacier - bedrock, in preparation
 
-## Conferences and Congress :
-
-- oral presented by A. Mangeney 
-- EGU 2019, Vienna, Austria : EGU General Assembly oral presentation 
-- AGU 2018, Washington, USA : AGU Fall meeting oral presentation 
-- TIDES 2018, Prague, Czech Republic : Advance training school in environmental seismology, COST Action oral presentation 
+### Conferences and Congress
+ 
+- EGU 2021, online: Poster presentation
+- EGU 2019, Vienna, Austria : EGU General Assembly oral presentation, oral presented by A. Mangeney
+- AGU Fall Meeting 2018, Washington, USA : AGU Fall meeting oral presentation 
+- TIDES Workshop 2018, Prague, Czech Republic : Advance training school in environmental seismology, COST Action oral presentation 
 - POLAR 2018, Davos, Switzerland : SCAR/IASC Open Science Conference poster presented by A. Mangeney 
 - AGU 2019, Washington, USA : AGU Fall meeting poster 
 - CDD 2019, Paris : PhD student conference, doctoral school STEP’UP poster 
 - CDD 2018, Paris : PhD student conference, doctoral school STEP’UP, Price for the best poster
 
-## Field campaign training :
+### Field campaign training
 
 - 2019 - 5 weeks : Glaciology Training School in Svalbard - UNIS : monitoring of the thermal state of a glacier through ground penetrating radar (GPR), chemical analysis of subglacial water, analysis of snow column and et theoretical lectures on glaciology, hydrology et thermal regimes 
 - 2018 - 10 jours : Tectonic Training of Active Faults Greece - IPGP : observation and analysis of landscape to reconstruct the seismic and geodesic history of Greece - Gulf of Corinth and Peloponnese 
 - 2017 - 2 semaines : Oceanographic Campaign in Mediterranean Sea MOOSE - LOCEAN : chemical and physical surveys and analysis of water samples
 
-## Teaching :
+### Teaching
 
 - Tutorial class in Mechanics of material failure at Masters levels, Arts et Métiers Engineering School, 18 hours in 2017-2018 and 18 hours in 2018-2019 
 - Tutorial class in Mechanics of material resistance at Masters levels, Arts et Métiers Engineering School, 21 hours in 2017-2018 and 18 hours in 2018-2019 
 - Physics Oral Examination Assistant, responsible for examining 2nd year engineering preparatory program students 30 hours in 2014 - 2015 
 - Tutor in Mathematics and Physics, private tutoring for high school students
 
-## Training programs :
+### Training programs
 
 - 2017 - today : PhD in mechanical modelling and seismological analysis of the source of glacial earthquakes in polar region - Seismology Team IPGP, Centre des Matériaux Mines ParisTech, PIMM ENSAM. 
 - 2017 - 2018 : Doctoral trainings : "Oceans, atmosphere and Climate" in ENS, "Earthquakes Dynamics" in IPGP, "Tribology and Contact" in Mines ParisTech 
@@ -74,14 +74,14 @@ Affiliations : Seismology team of IPGP, Centre des Matériaux of Mines ParisTech
 - 2010 - 2013 : Intensive math & science preparatory program lycée Condorcet, Paris - Pre-requisite for admission to Engineering schools 
 - 2010 : Baccalauréat (high school diploma) in Sciences, Louis le Grand high School - Graduated with honors, major in Mathematics
 
-## Work experiences :
+### Work experiences
 
 - 2017 - 5 months : Research Internship in Fluid-Structure interaction modelling for motion induced phenomena - ONERA The French Aerospace Lab, Paris 
 - 2015 - 5 months : Internship in Dynamic stability analysis of vessels - Heerema, Leiden, Netherlands 
 - 2014 - 6 months : Research and Development Internship in Sensitivity analysis and Uncertainty propagation - SNCF Innovation and Research, Paris 
 - 2014 - 2 months : Research Internship in Experimental study of thermo-acoustic instabilities in a Rijke tube - Indian Institute of Technology, Bombay, India
 
-## Hobbies :
+### Hobbies
 
 - Communication about climate change - Creation of GreenGlobe Group for discussion and action in IPGP, 2019-2020 
 - Trekking and running in the mountains Podiums in the Bike&Run Palaiseau-Polytechnique and in the Footbridge Monteynard Trail in 2018-2019 
