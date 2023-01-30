@@ -82,9 +82,9 @@ Affiliations : Seismology team of IPGP, Centre des Matériaux of Mines ParisTech
 
 ### Hobbies
 
-- Communication about climate change - Creation of GreenGlobe Group for discussion and action in IPGP, 2019-2020 
-- Trekking and running in the mountains Podiums in the Bike&Run Palaiseau-Polytechnique and in the Footbridge Monteynard Trail in 2018-2019 
-- Discovering new cultures in Asia, Europe, America
+- Communication about climate chang: Creation of GreenGlobe Group for discussion and action in IPGP (2019-2020), Facilitator of climate fresk workshops (2020-now)
+- Outdoor activities: Bike & Run, hiking, ski touring
+- Art: contemporary dancing, university choir, science poetry for the Fête de la Science, IPGP 2019
 
 ### Curious about my work or side activities ? 
 Feel free to give me a shout :) [Linkedin profile](https://www.linkedin.com/in/pauline-bonnet-326b7084/)
