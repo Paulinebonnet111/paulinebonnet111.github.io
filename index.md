@@ -89,4 +89,4 @@ Affiliations : Seismology team of IPGP, Centre des Matériaux of Mines ParisTech
 
 ### Curious about my work or side activities ? 
 Feel free to give me a shout :) <a href="[https://doi.org/10.1093/gji/ggaa353](https://www.linkedin.com/in/pauline-bonnet-phd-326b7084/)" target="_blank">Linkedin profile</a> 
-[//]: # "[Linkedin profile](https://www.linkedin.com/in/pauline-bonnet-phd-326b7084/)"
+[comment]: <> ( [Linkedin profile](https://www.linkedin.com/in/pauline-bonnet-phd-326b7084/) )
