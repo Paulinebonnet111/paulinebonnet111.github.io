@@ -1,13 +1,11 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Pauline Bonnet</h1>
-<h2>My scientific interests :</h2>
+# Pauline Bonnet
 
-<p>I am passionate about phenomena related to polar glaciers, and atmospheric physics, and powerful tools to study these physical processes such as numerical modelling and machine learning. </p>
+## My scientific interests :
+
+I am passionate about phenomena related to polar glaciers, and atmospheric physics, and powerful tools to study these physical processes such as numerical modelling and machine learning.
    
-<h2>PhD in Mechanical Modelling of the Source of Glacial Earthquakes in Polar Region (octobre 2017 - june 2021)</h2>
-<p>
+## PhD in Mechanical Modelling of the Source of Glacial Earthquakes in Polar Region (octobre 2017 - june 2021)
+
   Evaluating glacier mass loss is a current concern to understand the rapid evolution of ice caps related to climate change. 
   Iceberg calving is responsible for an important part of mass loss occurring at the front of marine-terminating glaciers in Greenland. 
   Some just-calved thin icebergs are unstable : during capsize, a force is applied to the terminus and is transmitted to the solid earth. 
@@ -28,7 +26,6 @@ PhD Advisors : Anne Mangeney (http://www.ipgp.fr/~mangeney/), Olivier Castelnau 
   Vladislav Yastrebov (http://www.yastrebov.fr/).
 
 Affiliations : Seismology team of IPGP, Centre des Matériaux of Mines ParisTech, PIMM laboratory in ENSAM.
-</p>
+
   
-</body>
-</html>
+
