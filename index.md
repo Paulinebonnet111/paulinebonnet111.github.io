@@ -9,7 +9,7 @@ I am passionate about phenomena related to atmospheric physics, polar glaciers a
 Postdoctoral researcher at the DLR, Weßling (close to Munich), working on machine learning based automated parameter tuning of global climate models with satellite data, in Prof. Veronika Eyring's group. This position is funded by the ERC-Synergy USMILE, check our [website](https://www.usmile-erc.eu/dlr/) !  
    
 ### PhD in Mechanical Modelling of the Source of Glacial Earthquakes in Polar Region
-(octobre 2017 - june 2021)
+octobre 2017 - june 2021
 
   Evaluating glacier mass loss is a current concern to understand the rapid evolution of ice caps related to climate change. 
   Iceberg calving is responsible for an important part of mass loss occurring at the front of marine-terminating glaciers in Greenland. 
@@ -54,8 +54,8 @@ Affiliations : Seismology team of IPGP, Centre des Matériaux of Mines ParisTech
 ### Field campaign training
 
 - 2019 - 5 weeks : Glaciology Training School in Svalbard - UNIS : monitoring of the thermal state of a glacier through ground penetrating radar (GPR), chemical analysis of subglacial water, analysis of snow column and et theoretical lectures on glaciology, hydrology et thermal regimes 
-- 2018 - 10 jours : Tectonic Training of Active Faults Greece - IPGP : observation and analysis of landscape to reconstruct the seismic and geodesic history of Greece - Gulf of Corinth and Peloponnese 
-- 2017 - 2 semaines : Oceanographic Campaign in Mediterranean Sea MOOSE - LOCEAN : chemical and physical surveys and analysis of water samples
+- 2018 - 10 days : Tectonic Training of Active Faults Greece - IPGP : observation and analysis of landscape to reconstruct the seismic and geodesic history of Greece - Gulf of Corinth and Peloponnese 
+- 2017 - 2 weeks : Oceanographic Campaign in Mediterranean Sea MOOSE - LOCEAN : chemical and physical surveys and analysis of water samples
 
 ### Teaching
 
@@ -66,7 +66,7 @@ Affiliations : Seismology team of IPGP, Centre des Matériaux of Mines ParisTech
 
 ### Training programs
 
-- 2017 - today : PhD in mechanical modelling and seismological analysis of the source of glacial earthquakes in polar region - Seismology Team IPGP, Centre des Matériaux Mines ParisTech, PIMM ENSAM. 
+- 2017 - 2021 : PhD in mechanical modelling and seismological analysis of the source of glacial earthquakes in polar region - Seismology Team IPGP, Centre des Matériaux Mines ParisTech, PIMM ENSAM. 
 - 2017 - 2018 : Doctoral trainings : "Oceans, atmosphere and Climate" in ENS, "Earthquakes Dynamics" in IPGP, "Tribology and Contact" in Mines ParisTech 
 - 2016 - 2017 : Research Master in Modelisation and Simulation in sctructural mechanics and coupled systems - ENS Cachan, ENSTA Paris, Centrale Paris Graduated with Honors 
 - 2013 - 2017 : Ecole National Supérieure de Techniques Avancées (ENSTA Paris) - Specialisation in Fluid and Solid Mechanics, Engineering School 
@@ -82,9 +82,9 @@ Affiliations : Seismology team of IPGP, Centre des Matériaux of Mines ParisTech
 
 ### Hobbies
 
-- Communication about climate chang: Creation of GreenGlobe Group for discussion and action in IPGP (2019-2020), Facilitator of climate fresk workshops (2020-now)
-- Outdoor activities: Bike & Run, hiking, ski touring
-- Art: contemporary dancing, university choir, science poetry for the Fête de la Science, IPGP 2019
+- Communication about climate change: Creation of GreenGlobe Group for discussion and action in IPGP (2019-2020), Facilitator of Climate Fresk workshops
+- Outdoor activities: road bike, running, hiking
+- Art: contemporary dancing, university choir, science poetry for the Fête de la Science at IPGP in 2019
 
 ### Curious about my work or side activities ? 
 Feel free to give me a shout :) [Linkedin profile](https://www.linkedin.com/in/pauline-bonnet-326b7084/)
