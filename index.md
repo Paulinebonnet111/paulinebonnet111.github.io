@@ -1,6 +1,6 @@
 Hey, welcome on my personal page !
 
-### My scientific interests
+### Scientific interests
 
 I am passionate about phenomena related to atmospheric physics, polar glaciers and powerful tools to study these physical processes such as numerical modelling and machine learning.
 
