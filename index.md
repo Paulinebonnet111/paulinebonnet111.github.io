@@ -1,5 +1,5 @@
 
-![photoPauline](https://github.com/Paulinebonnet111/paulinebonnet111.github.io/tree/main/png/photo_Pauline.png)
+![photoPauline](https://github.com/Paulinebonnet111/paulinebonnet111.github.io/blob/main/png/photo_Pauline.png?raw=true)
 
 ## My scientific interests :
 
