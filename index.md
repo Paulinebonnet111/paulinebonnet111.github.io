@@ -27,17 +27,16 @@ A versatile mechanical modelling of iceberg capsize has been developed by A. Ser
   A second objective of the PhD is to constrain the mechanical model with seismic signals from events of the last twenty years to evaluate 
   Greenland glacier’s mass loss by icebergs capsize and calving.
 
-PhD Advisors : Anne Mangeney (http://www.ipgp.fr/~mangeney/), Olivier Castelnau (https://pimm.artsetmetiers.fr/user/54), 
-  Vladislav Yastrebov (http://www.yastrebov.fr/).
+PhD Advisors : Anne Mangeney [http://www.ipgp.fr/~mangeney/](http://www.ipgp.fr/~mangeney/), Olivier Castelnau [https://pimm.artsetmetiers.fr/user/54](https://pimm.artsetmetiers.fr/user/54), Vladislav Yastrebov [http://www.yastrebov.fr/](http://www.yastrebov.fr/).
 
 Affiliations : Seismology team of IPGP, Centre des Matériaux of Mines ParisTech, PIMM laboratory in ENSAM.
 
   
 ### Publications
 
-- A. Sergeant, A. Mangeney, V. A. Yastrebov, F. Walter, J.-P. Montagner, O. Castelnau, E. Stutzmann, P. Bonnet, V. J.-L. Ralaiarisoa, S. Bevan, A. Luckman, Monitoring Greenland ice-sheet buoyancy-driven calving discharge using glacial earthquakes, Annals of Glaciology, 60(000), 75–95, 2019 https://doi.org/10.1017/aog.2019.7
+- A. Sergeant, A. Mangeney, V. A. Yastrebov, F. Walter, J.-P. Montagner, O. Castelnau, E. Stutzmann, P. Bonnet, V. J.-L. Ralaiarisoa, S. Bevan, A. Luckman, Monitoring Greenland ice-sheet buoyancy-driven calving discharge using glacial earthquakes, Annals of Glaciology, 60(000), 75–95, 2019 [https://doi.org/10.1017/aog.2019.7](https://doi.org/10.1017/aog.2019.7)
 
-- P. Bonnet, V.A. Yastrebov, P. Queutey, A. Leroyer, A. Mangeney, O. Castelnau, A. Sergeant, E. Stutzmann, J-P Montagner, Modelling iceberg capsize in the open ocean, GJI, 2020, https://doi.org/10.1093/gji/ggaa353 
+- P. Bonnet, V.A. Yastrebov, P. Queutey, A. Leroyer, A. Mangeney, O. Castelnau, A. Sergeant, E. Stutzmann, J-P Montagner, Modelling iceberg capsize in the open ocean, GJI, 2020, [https://doi.org/10.1093/gji/ggaa353](https://doi.org/10.1093/gji/ggaa353)
 
 - P. Bonnet, V.A. Yastrebov, A. Mangeney, O. Castelnau, P. Queutey, A. Leroyer, A. Sergeant, E. Stutzmann, J-P Montagner, Modelling the dynamics of iceberg - glacier - bedrock, in preparation
 
