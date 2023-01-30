@@ -87,4 +87,4 @@ Affiliations : Seismology team of IPGP, Centre des Matériaux of Mines ParisTech
 - Art: contemporary dancing, university choir, science poetry for the Fête de la Science at IPGP in 2019
 
 ### Curious about my work or side activities ? 
-Feel free to give me a shout :) [Linkedin profile](https://www.linkedin.com/in/pauline-bonnet-326b7084/)
+Feel free to give me a shout :) [Linkedin profile](https://www.linkedin.com/in/pauline-bonnet-phd-326b7084/)
