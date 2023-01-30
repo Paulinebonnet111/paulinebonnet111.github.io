@@ -1,4 +1,4 @@
-## Hey, welcome on my personal page !
+Hey, welcome on my personal page !
 
 ### My scientific interests
 
