@@ -6,7 +6,9 @@ I am passionate about phenomena related to atmospheric physics, polar glaciers a
 
 ### Currently
 
-Postdoctoral researcher at the DLR, Weßling (close to Munich), working on machine learning based automated parameter tuning of global climate models with satellite data, in Prof. Veronika Eyring's group. This position is funded by the ERC-Synergy USMILE, check our [website](https://www.usmile-erc.eu/dlr/){:target="_blank"} !  
+Postdoctoral researcher at the DLR, Weßling (close to Munich), working on machine learning based automated parameter tuning of global climate models with satellite data, in Prof. Veronika Eyring's group. This position is funded by the ERC Synergy Grant USMILE, check our
+<a href="https://www.usmile-erc.eu/dlr/" target="_blank">website</a>
+[website](https://www.usmile-erc.eu/dlr/) !  
    
 ### PhD in Mechanical Modelling of the Source of Glacial Earthquakes in Polar Region
 octobre 2017 - june 2021
