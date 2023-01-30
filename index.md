@@ -1,6 +1,3 @@
-
-![photoPauline](https://github.com/Paulinebonnet111/paulinebonnet111.github.io/blob/main/png/photo_Pauline.png?raw=true)
-
 ## My scientific interests :
 
 I am passionate about phenomena related to polar glaciers, and atmospheric physics, and powerful tools to study these physical processes such as numerical modelling and machine learning.
