@@ -4,6 +4,10 @@
 ## My scientific interests :
 
 I am passionate about phenomena related to polar glaciers, and atmospheric physics, and powerful tools to study these physical processes such as numerical modelling and machine learning.
+
+## Curently :
+
+Postdoctoral researcher at the DLR, Weßling (close to Munich), working on Machine-Learning based automatic tuning of parameters in Atmosheric models, in Prof. Veronika Eyring's group. This position is funded by the ERC-Synergy USMILE, check our [website](https://www.usmile-erc.eu/dlr/) !  
    
 ## PhD in Mechanical Modelling of the Source of Glacial Earthquakes in Polar Region (octobre 2017 - june 2021)
 
