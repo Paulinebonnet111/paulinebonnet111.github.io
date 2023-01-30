@@ -7,8 +7,7 @@ I am passionate about phenomena related to atmospheric physics, polar glaciers a
 ### Currently
 
 Postdoctoral researcher at the DLR, Weßling (close to Munich), working on machine learning based automated parameter tuning of global climate models with satellite data, in Prof. Veronika Eyring's group. This position is funded by the ERC Synergy Grant USMILE, check our
-<a href="https://www.usmile-erc.eu/dlr/" target="_blank">website</a>
-[website](https://www.usmile-erc.eu/dlr/) !  
+<a href="https://www.usmile-erc.eu/dlr/" target="_blank">website</a>!  
    
 ### PhD in Mechanical Modelling of the Source of Glacial Earthquakes in Polar Region
 octobre 2017 - june 2021
@@ -29,16 +28,16 @@ A versatile mechanical modelling of iceberg capsize has been developed by A. Ser
   A second objective of the PhD is to constrain the mechanical model with seismic signals from events of the last twenty years to evaluate 
   Greenland glacier’s mass loss by icebergs capsize and calving.
 
-PhD Advisors : Anne Mangeney [http://www.ipgp.fr/~mangeney/](http://www.ipgp.fr/~mangeney/), Olivier Castelnau [https://pimm.artsetmetiers.fr/user/54](https://pimm.artsetmetiers.fr/user/54), Vladislav Yastrebov [http://www.yastrebov.fr/](http://www.yastrebov.fr/).
+PhD Advisors : Anne Mangeney <a href="http://www.ipgp.fr/~mangeney/" target="_blank">http://www.ipgp.fr/~mangeney/</a>, Olivier Castelnau <a href="https://pimm.artsetmetiers.fr/user/54" target="_blank">https://pimm.artsetmetiers.fr/user/54</a>, Vladislav Yastrebov <a href="http://www.yastrebov.fr/" target="_blank">http://www.yastrebov.fr/</a>.
 
 Affiliations : Seismology team of IPGP, Centre des Matériaux of Mines ParisTech, PIMM laboratory in ENSAM.
 
   
 ### Publications
 
-- A. Sergeant, A. Mangeney, V. A. Yastrebov, F. Walter, J.-P. Montagner, O. Castelnau, E. Stutzmann, P. Bonnet, V. J.-L. Ralaiarisoa, S. Bevan, A. Luckman, Monitoring Greenland ice-sheet buoyancy-driven calving discharge using glacial earthquakes, Annals of Glaciology, 60(000), 75–95, 2019 [https://doi.org/10.1017/aog.2019.7](https://doi.org/10.1017/aog.2019.7)
+- A. Sergeant, A. Mangeney, V. A. Yastrebov, F. Walter, J.-P. Montagner, O. Castelnau, E. Stutzmann, P. Bonnet, V. J.-L. Ralaiarisoa, S. Bevan, A. Luckman, Monitoring Greenland ice-sheet buoyancy-driven calving discharge using glacial earthquakes, Annals of Glaciology, 60(000), 75–95, 2019 <a href="https://doi.org/10.1017/aog.2019.7" target="_blank">https://doi.org/10.1017/aog.2019.7</a>.
 
-- P. Bonnet, V.A. Yastrebov, P. Queutey, A. Leroyer, A. Mangeney, O. Castelnau, A. Sergeant, E. Stutzmann, J-P Montagner, Modelling iceberg capsize in the open ocean, GJI, 2020, [https://doi.org/10.1093/gji/ggaa353](https://doi.org/10.1093/gji/ggaa353)
+- P. Bonnet, V.A. Yastrebov, P. Queutey, A. Leroyer, A. Mangeney, O. Castelnau, A. Sergeant, E. Stutzmann, J-P Montagner, Modelling iceberg capsize in the open ocean, GJI, 2020, <a href="https://doi.org/10.1093/gji/ggaa353" target="_blank">https://doi.org/10.1093/gji/ggaa353</a>
 
 - P. Bonnet, V.A. Yastrebov, A. Mangeney, O. Castelnau, P. Queutey, A. Leroyer, A. Sergeant, E. Stutzmann, J-P Montagner, Modelling the dynamics of iceberg - glacier - bedrock, in preparation
 
@@ -89,4 +88,5 @@ Affiliations : Seismology team of IPGP, Centre des Matériaux of Mines ParisTech
 - Art: contemporary dancing, university choir, science poetry for the Fête de la Science at IPGP in 2019
 
 ### Curious about my work or side activities ? 
-Feel free to give me a shout :) [Linkedin profile](https://www.linkedin.com/in/pauline-bonnet-phd-326b7084/)
+Feel free to give me a shout :) <a href="[https://doi.org/10.1093/gji/ggaa353](https://www.linkedin.com/in/pauline-bonnet-phd-326b7084/)" target="_blank">Linkedin profile</a> 
+#[Linkedin profile](https://www.linkedin.com/in/pauline-bonnet-phd-326b7084/)
