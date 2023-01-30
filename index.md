@@ -83,4 +83,4 @@ Affiliations : Seismology team of IPGP, Centre des Matériaux of Mines ParisTech
 - Trekking and running in the mountains Podiums in the Bike&Run Palaiseau-Polytechnique and in the Footbridge Monteynard Trail in 2018-2019 
 - Discovering new cultures in Asia, Europe, America
 
-Linkedin profile : [Link](https://www.linkedin.com/in/pauline-bonnet-326b7084/)
+[Linkedin profile](https://www.linkedin.com/in/pauline-bonnet-326b7084/)
