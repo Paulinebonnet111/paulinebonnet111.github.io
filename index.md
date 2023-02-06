@@ -13,6 +13,7 @@ Postdoctoral researcher at the <a href="https://www.dlr.de/pa/en/desktopdefault.
 
 ### PhD in Mechanical Modelling of the Source of Glacial Earthquakes in Polar Region
 Octobre 2017 - June 2021
+
 Affiliations : Seismology team of IPGP, Centre des Matériaux of Mines ParisTech, PIMM laboratory in ENSAM.
 
   Evaluating glacier mass loss is a current concern to understand the rapid evolution of ice caps related to climate change. 
@@ -32,45 +33,52 @@ A versatile mechanical modelling of iceberg capsize has been developed by A. Ser
   Greenland glacier’s mass loss by icebergs capsize and calving.
 
 In practice:
-• Analysis of glacial earthquakes and inversion of the source force in obspy and Fortran 90: estimating ice losses due
+- Analysis of glacial earthquakes and inversion of the source force in obspy and Fortran 90: estimating ice losses due
 to iceberg capsize
-• Modelling iceberg capsize in free ocean: validation and improvement of a semi-analytical model in Python
-• Hydrodynamic effects during capsize using CFD simulations: collaboration with LHEEA, Centrale Nantes
-• Improvement and validation of a finite element model (Zset) for a viscous glacier with various basal friction laws
-• Multiparameter analysis of the response of a tide-water glacierto the capsize of an iceberg: glacier model
+- Modelling iceberg capsize in free ocean: validation and improvement of a semi-analytical model in Python
+- Hydrodynamic effects during capsize using CFD simulations: collaboration with LHEEA, Centrale Nantes
+- Improvement and validation of a finite element model (Zset) for a viscous glacier with various basal friction laws
+- Multiparameter analysis of the response of a tide-water glacierto the capsize of an iceberg: glacier model
 constrained with GPS data
-• Helheim glacier response to iceberg capsize: collaboration with AWI, Bremerhaven
+- Helheim glacier response to iceberg capsize: collaboration with AWI, Bremerhaven
 
 PhD Advisors : Anne Mangeney <a href="http://www.ipgp.fr/~mangeney/" target="_blank">http://www.ipgp.fr/~mangeney/</a>, Olivier Castelnau <a href="https://pimm.artsetmetiers.fr/user/54" target="_blank">https://pimm.artsetmetiers.fr/user/54</a>, Vladislav Yastrebov <a href="http://www.yastrebov.fr/" target="_blank">http://www.yastrebov.fr/</a>.
 
 ### Research internship
 March - August 2017 | Master year 2
+
 Meudon, France, Onera Aerospace lab, Aerodynamics, Aeroelasticity, Acoustics Department
-• Fluid-Structure interaction modelling, simulations with FreeFem++ run on a cluster
-• Stability analysis of a flexible beam in a confined fluid. Possible application to oscillations of pipes or plants in water
+- Fluid-Structure interaction modelling, simulations with FreeFem++ run on a cluster
+- Stability analysis of a flexible beam in a confined fluid. Possible application to oscillations of pipes or plants in water
 
 ### Engineering internship
 Analysis of marine vessels stability
+
 April - August 2016 | Gap year
+
 Leiden, Netherlands, Herema Marine Contractor, Marine Engineering Department
-• Static and dynamic stability analysis of vessels for heavy lifts installations in matlab and company software
-• Anchor positions, ballasting calculations, analysis of the vessels stability under various sea states conditions,
+- Static and dynamic stability analysis of vessels for heavy lifts installations in matlab and company software
+- Anchor positions, ballasting calculations, analysis of the vessels stability under various sea states conditions,
 writing of internal and external reports
 
 ### Research internship
 Sensitivity analysis on a database of catenary geometry and current quality
+
 October 2015 - March 2016 | Gap year
+
 Paris, France, SNCF Railway company, Direction Innovation Research, Mechanical Systems and Interaction
-• Processing a database of raw field data and statistical analysis of the geometry and physical parameters of the
+- Processing a database of raw field data and statistical analysis of the geometry and physical parameters of the
 pantograph-catenary system calculation of Sobol indices in MATLAB
-• Improvement of the maintenance standards ofrailway electric power supply
+- Improvement of the maintenance standards ofrailway electric power supply
 
 ### Research internship
 Experimental study of thermo-acoustic instabilities
+
 May - July 2015 | Master year 1
+
 Bombay, India, Aerospace Engineering Department, India Institute of Technology Bombay
-• Experimental study of thermo-acoustic instabilities in a Rijke tube for improvement of combustion performances
-• Processing the laboratory data: Influence of gas burner position, air-fuel mix and flow rate, on induced perturbations
+- Experimental study of thermo-acoustic instabilities in a Rijke tube for improvement of combustion performances
+- Processing the laboratory data: Influence of gas burner position, air-fuel mix and flow rate, on induced perturbations
 
 ### PUBLICATIONS
 - A. Sergeant, A. Mangeney, V. A. Yastrebov, F. Walter, J.-P. Montagner, O. Castelnau, E. Stutzmann, P. Bonnet, V. J.-L. Ralaiarisoa, S. Bevan, A. Luckman, Monitoring Greenland ice-sheet buoyancy-driven calving discharge using glacial earthquakes, Annals of Glaciology, 60(000), 75–95, 2019 <a href="https://doi.org/10.1017/aog.2019.7" target="_blank">https://doi.org/10.1017/aog.2019.7</a>.
@@ -85,59 +93,73 @@ Bombay, India, Aerospace Engineering Department, India Institute of Technology B
 Modelling and Simulation in Structural Mechanics and Coupled Systems
 September 2016 - March 2017, with Honours
 ENS Paris-Saclay, ENSTA Paris, Centrale Supelec, top 5 French Uni
-• Model reduction
-• Fluid-structure interactions
-• Numerical error estimators
-• Computational fluid dynamics
-• Statistics and Probabilities
+- Model reduction
+- Fluid-structure interactions
+- Numerical error estimators
+- Computational fluid dynamics
+- Statistics and Probabilities
 
 ### Master of Science
 Applied Mathematics, Fluid and Solid mechanics
 September 2013 - March 2017
 ENSTA Paris, top 10 French Uni
-• Signal processing
-• Compressible and incompressible fluid dynamics
-• Experimental fluid dynamics
-• Numerical methods
-• Turbulence
+- Signal processing
+- Compressible and incompressible fluid dynamics
+- Experimental fluid dynamics
+- Numerical methods
+- Turbulence
 
 ### Bachelor of Science
 Intensive Science program, pre-requisite for French Uni
+
 September 2010 - July 2013
+
 Mathematics and Physics (PCSI-PSI*) in Lycée Condorcet
 
 ### High School Diploma
-Majorin mathematics and life and earth sciences
+Major in mathematics and life and earth sciences
+
 Sep. 2007 - June 2010
+
 with Honours
-Lycée Louisle Grand, prestigious high school with competitive admission
+
+Lycée Louis le Grand, prestigious high school with competitive admission
 
 ### DOCTORAL TRAINING
 
 ### Lectures
-Earthquakes dynamics, IPG Paris 2017
-Pedagogical training, IPG Paris 2017
-Ocean, Atmosphere, Climate ENS Paris 2018
-Contact mechanics, Mines Paris 2018
-Time-dependant seismology, TIDES-cost Prague 2018
-Sun, Northern Lights, UNIS Svalbard 2019
+-Earthquakes dynamics, IPG Paris 2017
+-Pedagogical training, IPG Paris 2017
+-Ocean, Atmosphere, Climate ENS Paris 2018
+-Contact mechanics, Mines Paris 2018
+-Time-dependant seismology, TIDES-cost Prague 2018
+-Sun, Northern Lights, UNIS Svalbard 2019
 
 ### Glaciology Field Course
 UNIS, Svalbard, Norway
+
 5 weeks in February - March 2019
+
 Doctoral course AG-825 in UNIS, Longyearbyen
+
 Glaciology • Thermalregimes • Remote sensing: lecture and tutorial in QGIS • 8 days of field work: GPR, Ice Coring
 
 ### Living-Faults Field Course
 Greece
+
 8 days in May 2018
+
 Doctoral field course, IPGP
+
 Analysis of the Corinth region tectonic activity, lithospheric deformation, and seismic history
 
 ### Oceanographic Campaign
 Mediterranean Sea
+
 10 days in September 2017
+
 MOOSE-GE campaign on IFREMER Atalante ship, LOCEAN
+
 Monitoring the impact of climate change on hydrology and biogeochemical cycles in the northwestern Mediterranean Sea
 
 ### CONFERENCES AND CONGRESS
@@ -168,17 +190,23 @@ Monitoring the impact of climate change on hydrology and biogeochemical cycles i
 ### TEACHING
 ### Graduate-students Mechanics tutorial
 Material Resistance and Fatigue Failure
+
 January 2018 - March 2019
+
 80 hours of teaching in ENSAM Engineering school, Paris
 
 ### Undergraduate Students oral examinations
 Theoretical and applied physics
+
 September 2014 - June 2015
+
 44 hours of teaching in intensive science program in Condorcet School, Paris
 
 ### High school students private lessons
 Mathematics and Physics
+
 October 2013 - June 2014
+
 40 hours of tutoring to high school students in the region of Paris
 
 ### SCIENTIFIC EVENTS AND OUTREACH
