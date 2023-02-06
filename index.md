@@ -44,12 +44,12 @@ PhD Advisors : Anne Mangeney <a href="http://www.ipgp.fr/~mangeney/" target="_bl
 
 ### Research internship
 March - August 2017 | Master year 2 <br />
-Meudon, France, Onera Aerospace lab, Aerodynamics, Aeroelasticity, Acoustics Department
+Meudon, France, Onera Aerospace lab, Aerodynamics, Aeroelasticity, Acoustics Department 
 - Fluid-Structure interaction modelling, simulations with FreeFem++ run on a cluster
 - Stability analysis of a flexible beam in a confined fluid. Possible application to oscillations of pipes or plants in water
 
 ### Engineering internship
-Analysis of marine vessels stability
+Analysis of marine vessels stability <br />
 April - August 2016 | Gap year
 Leiden, Netherlands, Herema Marine Contractor, Marine Engineering Department
 - Static and dynamic stability analysis of vessels for heavy lifts installations in matlab and company software
@@ -57,16 +57,16 @@ Leiden, Netherlands, Herema Marine Contractor, Marine Engineering Department
 writing of internal and external reports
 
 ### Research internship
-Sensitivity analysis on a database of catenary geometry and current quality
-October 2015 - March 2016 | Gap year
+Sensitivity analysis on a database of catenary geometry and current quality <br />
+October 2015 - March 2016 | Gap year <br />
 Paris, France, SNCF Railway company, Direction Innovation Research, Mechanical Systems and Interaction
 - Processing a database of raw field data and statistical analysis of the geometry and physical parameters of the
 pantograph-catenary system calculation of Sobol indices in MATLAB
 - Improvement of the maintenance standards ofrailway electric power supply
 
 ### Research internship
-Experimental study of thermo-acoustic instabilities
-May - July 2015 | Master year 1
+Experimental study of thermo-acoustic instabilities <br />
+May - July 2015 | Master year 1 <br />
 Bombay, India, Aerospace Engineering Department, India Institute of Technology Bombay
 - Experimental study of thermo-acoustic instabilities in a Rijke tube for improvement of combustion performances
 - Processing the laboratory data: Influence of gas burner position, air-fuel mix and flow rate, on induced perturbations
@@ -81,8 +81,8 @@ Bombay, India, Aerospace Engineering Department, India Institute of Technology B
 ### EDUCATION
 
 ### Master of Science
-Modelling and Simulation in Structural Mechanics and Coupled Systems
-September 2016 - March 2017, with Honours
+Modelling and Simulation in Structural Mechanics and Coupled Systems <br />
+September 2016 - March 2017, with Honours <br />
 ENS Paris-Saclay, ENSTA Paris, Centrale Supelec, top 5 French Uni
 - Model reduction
 - Fluid-structure interactions
@@ -91,8 +91,8 @@ ENS Paris-Saclay, ENSTA Paris, Centrale Supelec, top 5 French Uni
 - Statistics and Probabilities
 
 ### Master of Science
-Applied Mathematics, Fluid and Solid mechanics
-September 2013 - March 2017
+Applied Mathematics, Fluid and Solid mechanics <br />
+September 2013 - March 2017 <br />
 ENSTA Paris, top 10 French Uni
 - Signal processing
 - Compressible and incompressible fluid dynamics
@@ -101,19 +101,14 @@ ENSTA Paris, top 10 French Uni
 - Turbulence
 
 ### Bachelor of Science
-Intensive Science program, pre-requisite for French Uni
-
-September 2010 - July 2013
-
+Intensive Science program, pre-requisite for French Uni <br />
+September 2010 - July 2013 <br />
 Mathematics and Physics (PCSI-PSI*) in Lycée Condorcet
 
 ### High School Diploma
-Major in mathematics and life and earth sciences
-
-Sep. 2007 - June 2010
-
-with Honours
-
+Major in mathematics and life and earth sciences <br />
+Sep. 2007 - June 2010 <br />
+with Honours <br />
 Lycée Louis le Grand, prestigious high school with competitive admission
 
 ### DOCTORAL TRAINING
@@ -127,30 +122,22 @@ Lycée Louis le Grand, prestigious high school with competitive admission
 -Sun, Northern Lights, UNIS Svalbard 2019
 
 ### Glaciology Field Course
-UNIS, Svalbard, Norway
-
-5 weeks in February - March 2019
-
-Doctoral course AG-825 in UNIS, Longyearbyen
-
-Glaciology • Thermalregimes • Remote sensing: lecture and tutorial in QGIS • 8 days of field work: GPR, Ice Coring
+UNIS, Svalbard, Norway <br />
+5 weeks in February - March 2019 <br />
+Doctoral course AG-825 in UNIS, Longyearbyen <br />
+Lectures: Glaciology, Thermalregimes, Remote sensing, QGIS Tutorial <br />
+8 days of field work: GPR, Ice Coring
 
 ### Living-Faults Field Course
-Greece
-
-8 days in May 2018
-
-Doctoral field course, IPGP
-
+Greece <br />
+8 days in May 2018 <br />
+Doctoral field course, IPGP <br />
 Analysis of the Corinth region tectonic activity, lithospheric deformation, and seismic history
 
 ### Oceanographic Campaign
-Mediterranean Sea
-
-10 days in September 2017
-
-MOOSE-GE campaign on IFREMER Atalante ship, LOCEAN
-
+Mediterranean Sea <br />
+10 days in September 2017 <br />
+MOOSE-GE campaign on IFREMER Atalante ship, LOCEAN <br />
 Monitoring the impact of climate change on hydrology and biogeochemical cycles in the northwestern Mediterranean Sea
 
 ### CONFERENCES AND CONGRESS
@@ -180,24 +167,18 @@ Monitoring the impact of climate change on hydrology and biogeochemical cycles i
 
 ### TEACHING
 ### Graduate-students Mechanics tutorial
-Material Resistance and Fatigue Failure
-
-January 2018 - March 2019
-
+Material Resistance and Fatigue Failure <br />
+January 2018 - March 2019 <br />
 80 hours of teaching in ENSAM Engineering school, Paris
 
 ### Undergraduate Students oral examinations
-Theoretical and applied physics
-
-September 2014 - June 2015
-
+Theoretical and applied physics <br />
+September 2014 - June 2015 <br />
 44 hours of teaching in intensive science program in Condorcet School, Paris
 
 ### High school students private lessons
-Mathematics and Physics
-
-October 2013 - June 2014
-
+Mathematics and Physics <br />
+October 2013 - June 2014 <br />
 40 hours of tutoring to high school students in the region of Paris
 
 ### SCIENTIFIC EVENTS AND OUTREACH
