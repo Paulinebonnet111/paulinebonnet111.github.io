@@ -157,7 +157,7 @@ Monitoring the impact of climate change on hydrology and biogeochemical cycles i
 ## AWARDS & GRANTS
 - 2018 Best poster award - PhD Student Conference, IPGP, March 2018
 - 2017-2020 Doctoral Grant from DGA and STEP’UP Doctoral school
-- 2010 National Mathematical Competition,rank 59/2711
+- 2010 National Mathematical Competition, rank 59/2711
 
 ## SCIENTIFIC TOOLS
 - Programming languages : Python (jupyter-notebook), MATLAB, C++, Fortran 90
@@ -200,7 +200,7 @@ October 2013 - June 2014 <br />
 ##  VOLUNTEERING AND HOBBIES
 - Red Cross volunteer : marauding in a Parisian district, and organising a choir to raise funds for the local unit (2018-2020)
 - Hiking in the mountains in France and abroad, one month internship as canoe instructor in Hakuba Lyon Adventure, Japan, 2014
-- 15 years of dance: ballet, contemporary and modern dance
+- 15 years of dance : ballet, contemporary and modern dance
 
 ## Curious about my work, background or side activities ?
 Feel free to give me a shout :) <a href="https://www.linkedin.com/in/pauline-bonnet-phd-326b7084/" target="_blank">Linkedin profile</a> 
