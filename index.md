@@ -32,7 +32,6 @@ A versatile mechanical modelling of iceberg capsize has been developed by A. Ser
   A second objective of the PhD is to constrain the mechanical model with seismic signals from events of the last twenty years to evaluate 
   Greenland glacier’s mass loss by icebergs capsize and calving.
 
-In practice:
 - Analysis of glacial earthquakes and inversion of the source force in obspy and Fortran 90: estimating ice losses due
 to iceberg capsize
 - Modelling iceberg capsize in free ocean: validation and improvement of a semi-analytical model in Python
