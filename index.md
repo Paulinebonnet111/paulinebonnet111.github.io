@@ -45,16 +45,13 @@ PhD Advisors : Anne Mangeney <a href="http://www.ipgp.fr/~mangeney/" target="_bl
 
 ### Research internship
 March - August 2017 | Master year 2
-
 Meudon, France, Onera Aerospace lab, Aerodynamics, Aeroelasticity, Acoustics Department
 - Fluid-Structure interaction modelling, simulations with FreeFem++ run on a cluster
 - Stability analysis of a flexible beam in a confined fluid. Possible application to oscillations of pipes or plants in water
 
 ### Engineering internship
 Analysis of marine vessels stability
-
 April - August 2016 | Gap year
-
 Leiden, Netherlands, Herema Marine Contractor, Marine Engineering Department
 - Static and dynamic stability analysis of vessels for heavy lifts installations in matlab and company software
 - Anchor positions, ballasting calculations, analysis of the vessels stability under various sea states conditions,
@@ -62,9 +59,7 @@ writing of internal and external reports
 
 ### Research internship
 Sensitivity analysis on a database of catenary geometry and current quality
-
 October 2015 - March 2016 | Gap year
-
 Paris, France, SNCF Railway company, Direction Innovation Research, Mechanical Systems and Interaction
 - Processing a database of raw field data and statistical analysis of the geometry and physical parameters of the
 pantograph-catenary system calculation of Sobol indices in MATLAB
@@ -72,9 +67,7 @@ pantograph-catenary system calculation of Sobol indices in MATLAB
 
 ### Research internship
 Experimental study of thermo-acoustic instabilities
-
 May - July 2015 | Master year 1
-
 Bombay, India, Aerospace Engineering Department, India Institute of Technology Bombay
 - Experimental study of thermo-acoustic instabilities in a Rijke tube for improvement of combustion performances
 - Processing the laboratory data: Influence of gas burner position, air-fuel mix and flow rate, on induced perturbations
