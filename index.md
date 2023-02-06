@@ -43,6 +43,7 @@ constrained with GPS data
 PhD Advisors : Anne Mangeney <a href="http://www.ipgp.fr/~mangeney/" target="_blank">http://www.ipgp.fr/~mangeney/</a>, Olivier Castelnau <a href="https://pimm.artsetmetiers.fr/user/54" target="_blank">https://pimm.artsetmetiers.fr/user/54</a>, Vladislav Yastrebov <a href="http://www.yastrebov.fr/" target="_blank">http://www.yastrebov.fr/</a>.
 
 ### Research internship
+Numerical stability analysis of a flexible beam in a confined fluid
 March - August 2017 | Master year 2 <br />
 Meudon, France, Onera Aerospace lab, Aerodynamics, Aeroelasticity, Acoustics Department 
 - Fluid-Structure interaction modelling, simulations with FreeFem++ run on a cluster
@@ -50,7 +51,7 @@ Meudon, France, Onera Aerospace lab, Aerodynamics, Aeroelasticity, Acoustics Dep
 
 ### Engineering internship
 Analysis of marine vessels stability <br />
-April - August 2016 | Gap year
+April - August 2016 | Gap year <br />
 Leiden, Netherlands, Herema Marine Contractor, Marine Engineering Department
 - Static and dynamic stability analysis of vessels for heavy lifts installations in matlab and company software
 - Anchor positions, ballasting calculations, analysis of the vessels stability under various sea states conditions,
