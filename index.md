@@ -1,15 +1,15 @@
 Hey, welcome on my personal page !
 
-### SCIENTIFIC INTERESTS
+## SCIENTIFIC INTERESTS
 
 I am passionate about phenomena related to atmospheric physics, polar glaciers and powerful tools to study these physical processes such as numerical modelling and machine learning.
 
-### CURRENTLY
+## CURRENTLY
 
 Postdoctoral researcher at the <a href="https://www.dlr.de/pa/en/desktopdefault.aspx/" target="_blank">DLR Institute for Atmospheric Physics</a>, Weßling (close to Munich), working on machine learning based automated parameter tuning of global climate models with satellite data, in Prof. Veronika Eyring's group. This position is funded by the <a href="https://www.usmile-erc.eu/dlr/" target="_blank">ERC Synergy Grant USMILE</a>.
    
 
-### WORK EXPERIENCES
+## WORK EXPERIENCES
 
 ### PhD in Mechanical Modelling of the Source of Glacial Earthquakes in Polar Region
 Octobre 2017 - June 2021 <br />
@@ -71,14 +71,14 @@ Bombay, India, Aerospace Engineering Department, India Institute of Technology B
 - Experimental study of thermo-acoustic instabilities in a Rijke tube for improvement of combustion performances
 - Processing the laboratory data: Influence of gas burner position, air-fuel mix and flow rate, on induced perturbations
 
-### PUBLICATIONS
+## PUBLICATIONS
 - A. Sergeant, A. Mangeney, V. A. Yastrebov, F. Walter, J.-P. Montagner, O. Castelnau, E. Stutzmann, P. Bonnet, V. J.-L. Ralaiarisoa, S. Bevan, A. Luckman, Monitoring Greenland ice-sheet buoyancy-driven calving discharge using glacial earthquakes, Annals of Glaciology, 60(000), 75–95, 2019 <a href="https://doi.org/10.1017/aog.2019.7" target="_blank">https://doi.org/10.1017/aog.2019.7</a>.
 
 - P. Bonnet, V.A. Yastrebov, P. Queutey, A. Leroyer, A. Mangeney, O. Castelnau, A. Sergeant, E. Stutzmann, J-P Montagner, Modelling iceberg capsize in the open ocean, GJI, 2020, <a href="https://doi.org/10.1093/gji/ggaa353" target="_blank">https://doi.org/10.1093/gji/ggaa353</a>
 
 - P. Bonnet, V.A. Yastrebov, A. Mangeney, O. Castelnau, P. Queutey, A. Leroyer, A. Sergeant, E. Stutzmann, J-P Montagner, Modelling the dynamics of iceberg - glacier - bedrock, in preparation
 
-### EDUCATION
+## EDUCATION
 
 ### Master of Science
 Modelling and Simulation in Structural Mechanics and Coupled Systems <br />
@@ -111,7 +111,7 @@ Sep. 2007 - June 2010 <br />
 with Honours <br />
 Lycée Louis le Grand, Paris, Prestigious high school with competitive admission <br />
 
-### DOCTORAL TRAINING
+## DOCTORAL TRAINING
 
 ### Lectures
 -Earthquakes dynamics, IPG Paris 2017
@@ -140,7 +140,7 @@ Mediterranean Sea <br />
 MOOSE-GE campaign on IFREMER Atalante ship, LOCEAN <br />
 Monitoring the impact of climate change on hydrology and biogeochemical cycles in the northwestern Mediterranean Sea
 
-### CONFERENCES AND CONGRESS
+## CONFERENCES AND CONGRESS
  
 - Talk: EGU General Assembly 2021, online
 - Seminar: Seismology team, IPGP January 2020 Paris, France
@@ -159,13 +159,13 @@ Monitoring the impact of climate change on hydrology and biogeochemical cycles i
 - 2017-2020 Doctoral Grant from DGA and STEP’UP Doctoral school
 - 2010 National Mathematical Competition,rank 59/2711
 
-### SCIENTIFIC TOOLS
+## SCIENTIFIC TOOLS
 - Programming languages : Python (jupyter-notebook), MATLAB, C++, Fortran 90
 - Operating systems : Linux shell, Microsoft Windows
 - Documents and presentations editor : LATEX , Microsoft Office
 - Other : git, QGIS, Inkscape
 
-### TEACHING
+## TEACHING
 ### Graduate-students Mechanics tutorial
 Material Resistance and Fatigue Failure <br />
 January 2018 - March 2019 <br />
@@ -181,7 +181,7 @@ Mathematics and Physics <br />
 October 2013 - June 2014 <br />
 40 hours of tutoring to high school students in the region of Paris
 
-### SCIENTIFIC EVENTS AND OUTREACH
+## SCIENTIFIC EVENTS AND OUTREACH
 - PhD and Postdocs delegate for the Seismology team of IPGP, 2018-2020: co-organisation of seminars in Paris and in Normandy
 - Moderator of a seminar on Ecology in Academia, 2020, with Prof. Masson-Delmotte, Prof. Capet and Dr. Sevestre
 - Outreach in Earth Seismology, 2018: Fête de la Science, IPGP
@@ -191,17 +191,17 @@ October 2013 - June 2014 <br />
 - Science poetry for the Festival des Idées, Outreach event for Academia, at IPG Paris, 2017, 2019
 - Scientific instructor for the Girls on Ice expedition, Findelen glacier, Switzerland, 2021
 
-### LANGUAGES 
+## LANGUAGES 
 - French : native speaker
 - English proficient : 5 years in London as a child
 - German and Spanish : intermediate
 - Japanese : basics
 
-###  VOLUNTEERING AND HOBBIES
+##  VOLUNTEERING AND HOBBIES
 - Red Cross volunteer : marauding in a Parisian district, and organising a choir to raise funds for the local unit (2018-2020)
 - Hiking in the mountains in France and abroad, one month internship as canöe instructor in Hakuba Lyon Adventure, Japan, 2014
 - 15 years of dance: ballet, contemporary and modern dance
 
-### Curious about my work or side activities ? 
+## Curious about my work or side activities ? 
 Feel free to give me a shout :) <a href="https://www.linkedin.com/in/pauline-bonnet-phd-326b7084/" target="_blank">Linkedin profile</a> 
 <!--  ( [Linkedin profile](https://www.linkedin.com/in/pauline-bonnet-phd-326b7084/) -->
