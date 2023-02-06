@@ -193,13 +193,13 @@ October 2013 - June 2014 <br />
 
 ## LANGUAGES 
 - French : native speaker
-- English proficient : 5 years in London as a child
+- English : proficient, 5 years in London as a child
 - German and Spanish : intermediate
 - Japanese : basics
 
 ##  VOLUNTEERING AND HOBBIES
 - Red Cross volunteer : marauding in a Parisian district, and organising a choir to raise funds for the local unit (2018-2020)
-- Hiking in the mountains in France and abroad, one month internship as canöe instructor in Hakuba Lyon Adventure, Japan, 2014
+- Hiking in the mountains in France and abroad, one month internship as canoe instructor in Hakuba Lyon Adventure, Japan, 2014
 - 15 years of dance: ballet, contemporary and modern dance
 
 ## Curious about my work or side activities ? 
