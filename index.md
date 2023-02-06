@@ -12,8 +12,7 @@ Postdoctoral researcher at the <a href="https://www.dlr.de/pa/en/desktopdefault.
 ### WORK EXPERIENCES
 
 ### PhD in Mechanical Modelling of the Source of Glacial Earthquakes in Polar Region
-Octobre 2017 - June 2021
-
+Octobre 2017 - June 2021 <br />
 Affiliations : Seismology team of IPGP, Centre des Matériaux of Mines ParisTech, PIMM laboratory in ENSAM.
 
   Evaluating glacier mass loss is a current concern to understand the rapid evolution of ice caps related to climate change. 
@@ -44,7 +43,7 @@ constrained with GPS data
 PhD Advisors : Anne Mangeney <a href="http://www.ipgp.fr/~mangeney/" target="_blank">http://www.ipgp.fr/~mangeney/</a>, Olivier Castelnau <a href="https://pimm.artsetmetiers.fr/user/54" target="_blank">https://pimm.artsetmetiers.fr/user/54</a>, Vladislav Yastrebov <a href="http://www.yastrebov.fr/" target="_blank">http://www.yastrebov.fr/</a>.
 
 ### Research internship
-March - August 2017 | Master year 2
+March - August 2017 | Master year 2 <br />
 Meudon, France, Onera Aerospace lab, Aerodynamics, Aeroelasticity, Acoustics Department
 - Fluid-Structure interaction modelling, simulations with FreeFem++ run on a cluster
 - Stability analysis of a flexible beam in a confined fluid. Possible application to oscillations of pipes or plants in water
