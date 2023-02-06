@@ -182,14 +182,13 @@ October 2013 - June 2014 <br />
 40 hours of tutoring to high school students in the region of Paris
 
 ## SCIENTIFIC EVENTS AND OUTREACH
-- PhD and Postdocs delegate for the Seismology team of IPGP, 2018-2020: co-organisation of seminars in Paris and in Normandy
-- Moderator of a seminar on Ecology in Academia, 2020, with Prof. Masson-Delmotte, Prof. Capet and Dr. Sevestre
-- Outreach in Earth Seismology, 2018: Fête de la Science, IPGP
-- Outreach in Space Seismology, 2018: Landing of the Insight mission, Cité des Sciences
-- Climate Change Communication, 2020-2021: facilitator of 10 Climate Fresk 3-hours workshops
-- Glaciology webinar for APECS-France 2020, article for children on Glaciology (Les Romans, Je lis déjà) Jan 2021
-- Science poetry for the Festival des Idées, Outreach event for Academia, at IPG Paris, 2017, 2019
-- Scientific instructor for the Girls on Ice expedition, Findelen glacier, Switzerland, 2021
+- Climate Change Communication : facilitator of 10 Climate Fresk 3-hours workshops (2020-2022)
+- Scientific instructor : for the Girls on Ice expedition on the Findelen glacier, Switzerland (2021)
+- PhD and Postdocs delegate for the Seismology team of IPGP : co-organisation of seminars in Paris and in Normandy (2018-2020)
+- Moderator of a Doctoral School Seminar on Ecology in Academia : with Prof. Masson-Delmotte, Prof. Capet and Dr. Sevestre, online (2020)
+- Outreach in Earth and Space Seismology : at the Fête de la Science, IPGP and for the Landing of the Insight mission, Cité des Sciences, Paris (2018)
+- Outreach in Glaciology : webinar for APECS-France online (2020), article for children on Glaciology, in Les Romans, Je lis déjà, (Jan 2021)
+- Earth and Climate Sciences Poetry : Festival des Idées, Outreach event for Academia, IPGP, (2017 and 2019)
 
 ## LANGUAGES 
 - French : native speaker
