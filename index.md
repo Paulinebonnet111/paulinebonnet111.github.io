@@ -103,13 +103,13 @@ ENSTA Paris, top 10 French Uni
 ### Bachelor of Science
 Intensive Science program, pre-requisite for French Uni <br />
 September 2010 - July 2013 <br />
-Mathematics and Physics (PCSI-PSI*) in Lycée Condorcet
+Mathematics and Physics (PCSI-PSI*) in Lycée Condorcet, Paris
 
 ### High School Diploma
 Major in mathematics and life and earth sciences <br />
 Sep. 2007 - June 2010 <br />
 with Honours <br />
-Lycée Louis le Grand, prestigious high school with competitive admission
+Lycée Louis le Grand, Paris, Prestigious high school with competitive admission <br />
 
 ### DOCTORAL TRAINING
 
@@ -192,10 +192,10 @@ October 2013 - June 2014 <br />
 - Scientific instructor for the Girls on Ice expedition, Findelen glacier, Switzerland, 2021
 
 ### LANGUAGES 
-- French native speaker
+- French : native speaker
 - English proficient : 5 years in London as a child
-- German and Spanish intermediate
-- Japanese basics
+- German and Spanish : intermediate
+- Japanese : basics
 
 ###  VOLUNTEERING AND HOBBIES
 - Red Cross volunteer : marauding in a Parisian district, and organising a choir to raise funds for the local unit (2018-2020)
