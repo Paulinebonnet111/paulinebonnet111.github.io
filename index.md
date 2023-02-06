@@ -202,6 +202,6 @@ October 2013 - June 2014 <br />
 
 ##  VOLUNTEERING AND HOBBIES
 - Red Cross volunteer : marauding in a Parisian district, and organising a choir to raise funds for the local unit (2018-2020)
-- Hiking in the mountains in France and abroad, one month internship as canoe instructor in Hakuba Lyon Adventure, Japan, 2014
+- Hiking in the mountains in France and abroad, one month internship as canoe instructor in Hakuba Lyon Adventure, Japan (2014)
 - 18 years of dance : ballet, contemporary and modern dance
 
