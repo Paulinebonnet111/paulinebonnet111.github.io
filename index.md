@@ -1,6 +1,6 @@
 Hey, welcome on my personal page ! <br />
-Curious about my work, background or side activities ? <br />
-Feel free to give me a shout :) <a href="https://www.linkedin.com/in/pauline-bonnet-phd-326b7084/" target="_blank">Linkedin profile</a> 
+
+Feel free to leave comments and contact me for any sort of reason : <a href="https://www.linkedin.com/in/pauline-bonnet-phd-326b7084/" target="_blank">Linkedin profile</a> :)
 <!--  ( [Linkedin profile](https://www.linkedin.com/in/pauline-bonnet-phd-326b7084/) -->
 
 ## SCIENTIFIC INTERESTS
@@ -10,7 +10,6 @@ I am passionate about phenomena related to atmospheric physics, polar glaciers a
 ## CURRENTLY
 
 Postdoctoral researcher at the <a href="https://www.dlr.de/pa/en/desktopdefault.aspx/" target="_blank">DLR Institute for Atmospheric Physics</a>, Weßling (close to Munich), working on machine learning based automated parameter tuning of global climate models with satellite data, in Prof. Veronika Eyring's group. This position is funded by the <a href="https://www.usmile-erc.eu/dlr/" target="_blank">ERC Synergy Grant USMILE</a>.
-   
 
 ## WORK EXPERIENCES
 
