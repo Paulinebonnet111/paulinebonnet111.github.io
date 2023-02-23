@@ -186,7 +186,7 @@ October 2013 - June 2014 <br />
 
 ## SCIENTIFIC EVENTS AND OUTREACH
 - Climate Change Communication : facilitator of 10 Climate Fresk 3-hours workshops (2020-2022)
-- Scientific instructor : for the Girls on Ice expedition on the Findelen glacier, Switzerland (2021)
+- Scientific instructor : for the Girls on Ice expedition on the Findelen glacier, Switzerland (one week in 2021)
 - PhD and Postdocs delegate for the Seismology team of IPGP : co-organisation of seminars in Paris and in Normandy (2018-2020)
 - Moderator of a Doctoral School Seminar on Ecology in Academia : with Prof. Masson-Delmotte, Prof. Capet and Dr. Sevestre, online (2020)
 - Outreach in Earth and Space Seismology : at the Fête de la Science, IPGP and for the Landing of the Insight mission, Cité des Sciences, Paris (2018)
@@ -201,6 +201,6 @@ October 2013 - June 2014 <br />
 
 ##  VOLUNTEERING AND HOBBIES
 - Red Cross volunteer : marauding in a Parisian district, and organising a choir to raise funds for the local unit (2018-2020)
-- Hiking in the mountains in France and abroad, one month internship as canoe instructor in Hakuba Lyon Adventure, Japan (2014)
-- 18 years of dance : ballet, contemporary and modern dance
+- Scouts volunteer, group leader : organising pedagogical games, hikes, visits of a permaculture farm, for groups of children in Germany and France
+- Arts and sports : 18 years of dance (ballet, contemporary and modern), one month internship as canoe instructor in Hakuba Lyon Adventure Japan (2014), piano, choir, ukulélé, hiking, running, climbing, road bike, tennis
 
