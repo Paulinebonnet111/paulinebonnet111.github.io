@@ -204,3 +204,5 @@ October 2013 - June 2014 <br />
 - Scouts volunteer, group leader : organising pedagogical games, hikes, visits of a permaculture farm, for groups of children in Germany and France
 - Arts and sports : 18 years of dance (ballet, contemporary and modern), one month internship as canoe instructor in Hakuba Lyon Adventure Japan (2014), piano, choir, ukulélé, hiking, running, climbing, road bike, tennis
 
+![](png/google_scholar.jfif)
+
