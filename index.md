@@ -204,6 +204,6 @@ October 2013 - June 2014 <br />
 - Japanese : basics
 
 ##  VOLUNTEERING AND HOBBIES
-- Red Cross volunteer : marauding in a Parisian district, and organising a choir to raise funds for the local unit (2018-2020)
-- Scouts volunteer, group leader : organising pedagogical games, visits of a permaculture farm in Germany and France
-- Arts and sports : 18 years of dance (ballet, contemporary and modern), one month internship as canoe instructor in Hakuba Lyon Adventure Japan (2014), piano, choir, ukulélé, hiking, running, climbing, road bike, tennis
+- Red Cross volunteer : marauding in a Parisian district, organising a choir to raise funds for the local unit (2018-2020)
+- Scouts volunteer, group leader : organising pedagogical games, visits of a permaculture farm (2021-2023)
+- Arts and sports : 18 years of ballet and contemporary dance, canoe instructor in Hakuba Lyon Adventure Japan (2014), piano, choir, ukulélé, hiking, running, climbing, road bike, tennis
