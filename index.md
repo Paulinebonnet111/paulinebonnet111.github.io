@@ -201,11 +201,10 @@ October 2013 - June 2014 <br />
 
 ##  VOLUNTEERING AND HOBBIES
 - Red Cross volunteer : marauding in a Parisian district, and organising a choir to raise funds for the local unit (2018-2020)
-- Scouts volunteer, group leader : organising pedagogical games, hikes, visits of a permaculture farm, for groups of children in Germany and France
+- Scouts volunteer, group leader : organising pedagogical games, visits of a permaculture farm in Germany and France
 - Arts and sports : 18 years of dance (ballet, contemporary and modern), one month internship as canoe instructor in Hakuba Lyon Adventure Japan (2014), piano, choir, ukulélé, hiking, running, climbing, road bike, tennis
 
-<img src="png/google_scholar.jfif" alt="drawing" width="10"/>
-<img src="png/google_scholar.jfif" alt="drawing" width="50"/>
-<img src="png/google_scholar.jfif" alt="drawing" width="200"/>
-![](png/google_scholar.jfif)
+<a href="https://scholar.google.com.ar/citations?user=Scve-3UAAAAJ&hl=de&oi=ao" target="_blank"><img src="png/google_scholar.jfif" alt="drawing" width="20"/>
+<a href="https://www.linkedin.com/in/pauline-bonnet-phd-326b7084/" target="_blank"><img src="png/linkedin.jfif" alt="drawing" width="20"/>
+<a href="https://www.researchgate.net/profile/Pauline-Bonnet-2?ev=hdr_xprf" target="_blank"><img src="png/research_gate.jfif" alt="drawing" width="20"/>
 
