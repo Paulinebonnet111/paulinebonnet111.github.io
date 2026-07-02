@@ -14,13 +14,31 @@ I am passionate about phenomena related to atmospheric physics, polar glaciers a
 
 ## CURRENTLY
 
-Postdoctoral researcher at the <a href="https://www.dlr.de/pa/en/desktopdefault.aspx/" target="_blank">DLR Institute for Atmospheric Physics</a>, Weßling (close to Munich), working on machine learning based automated parameter tuning of global climate models with satellite data, in Prof. Veronika Eyring's group. This position is funded by the <a href="https://www.usmile-erc.eu/dlr/" target="_blank">ERC Synergy Grant USMILE</a>.
+Looking for a new work opportunity in Marseille as a Projet Manager or Science Communicator in an ambitious projet related to Climate Sciences.
+
 
 ## WORK EXPERIENCES
 
+### Postdoc in Atmospheric modelling and Machine Learning
+February 2022 - April 2026
+Affiliation: Prof. Veronika Eyring's group <a href="https://www.pa.op.dlr.de/~/VeronikaEyring/index.html" target="_blank">https://www.pa.op.dlr.de/~/VeronikaEyring/index.html</a>, Institut of Atmospheric Physics, DLR, Wessling (close to Munich), Germany.
+
+This position is funded by the <a href="https://www.usmile-erc.eu/dlr/" target="_blank">ERC Synergy Grant USMILE</a>, and the <a href="https://ai4pex.org/" target="_blank">EU Horizon Europe Projet AI4PEX</a>,
+
+ Abstract
+
+In climate model development, “tuning” refers to the important process of adjusting uncertain free parameters of subgrid-scale parameterizations to best match a set of Earth observations, such as the global radiation balance or global cloud cover. This is traditionally a computationally expensive step as it requires a large number of climate model simulations. This step also becomes more challenging with increasing spatial resolution and complexity of climate models. In addition, the manual tuning relies strongly on expert knowledge and is thus not independently reproducible. To reduce subjectivity and computational demands, tuning methods based on machine learning (ML) have become an active research subject. Here, we build on these developments and apply ML-based tuning to the atmospheric component of the Icosahedral Nonhydrostatic Weather and Climate Model (ICON) at 80 km resolution. Our approach follows a workflow similar to other proposed ML-based tuning methods: (1) creating a perturbed parameter ensemble (PPE) of limited size with randomly selected parameters, (2) fitting an ML-based emulator to the PPE to generate a large emulated ensemble with the emulator, and (3) shrinking the parameter space to regions compatible with observations using a method inspired by history matching. However, in contrast to previous works, we apply a sequential approach: the selected set of tuning parameters is updated in successive phases depending on the results of a sensitivity analysis with Sobol indices. We tune for global radiative properties, cloud properties, zonal wind velocities, and wind stresses on the ocean surface. With one iteration of this method, we achieve a model configuration yielding a global top-of-atmosphere net radiation budget in the range of [0, 1] W m−2, and global radiation metrics and water vapour path consistent with the reference observations. Furthermore, the resulting ML-based emulator allows us to identify the parameters that most impact the outputs that we target with tuning. The parameters that we identified to be mostly influential for the physics output metrics are the critical relative humidity in the upper troposphere and the conversion coefficient from cloud water to rain, influencing the radiation metrics and global cloud cover, together with the coefficient of sedimentation velocity of cloud ice, having a strong non-linear influence on all the physics metrics. The existence of non-linear effects further motivates the use of ML-based approaches for parameter tuning in climate models.
+
+- Creating a workflow to run ensembles of the ICON model simulations
+- Selection and tuning of physical Parameters
+- Implementation of a machine learning based tuning method using history matching (python and C++ language)
+- Selection of reference datasets: observation and manually tuned previous model version 
+- Adjusting the method to fit physic and dynamic output metrics.   
+- Setting up a modelling regional modelling framework for predictions of renewable energy production 
+
 ### PhD in Mechanical Modelling of the Source of Glacial Earthquakes in Polar Region
 Octobre 2017 - June 2021 <br />
-Affiliations : Seismology team of IPGP, Centre des Matériaux of Mines ParisTech, PIMM laboratory in ENSAM.
+Affiliations : Seismology team of IPGP, Centre des Matériaux of Mines ParisTech, PIMM laboratory in ENSAM, Paris, France
 
   Evaluating glacier mass loss is a current concern to understand the rapid evolution of ice caps related to climate change. 
   Iceberg calving is responsible for an important part of mass loss occurring at the front of marine-terminating glaciers in Greenland. 
@@ -80,11 +98,12 @@ Bombay, India, Aerospace Engineering Department, India Institute of Technology B
 - Processing the laboratory data: Influence of gas burner position, air-fuel mix and flow rate, on induced perturbations
 
 ## PUBLICATIONS
-- A. Sergeant, A. Mangeney, V. A. Yastrebov, F. Walter, J.-P. Montagner, O. Castelnau, E. Stutzmann, P. Bonnet, V. J.-L. Ralaiarisoa, S. Bevan, A. Luckman, Monitoring Greenland ice-sheet buoyancy-driven calving discharge using glacial earthquakes, Annals of Glaciology, 60(000), 75–95, 2019 <a href="https://doi.org/10.1017/aog.2019.7" target="_blank">https://doi.org/10.1017/aog.2019.7</a>.
+- P. Bonnet, L. Pastori, M. Schwabe, M. Giorgetta, F. Iglesias-Suarez, and V. Eyring, Tuning the ICON-A 2.6. 4 climate model with machine-learning-based emulators and history matching, Geoscientific Model Development, 2025 <a href="https://doi.org/10.1017/aog.2019.7" target="_blank">https://doi.org/10.5194/gmd-18-3681-2025</a>.
+
+- A. Sergeant, A. Mangeney, V. A. Yastrebov, F. Walter, J.-P. Montagner, O. Castelnau, E. Stutzmann, P. Bonnet, V. J.-L. Ralaiarisoa, S. Bevan, A. Luckman, Monitoring Greenland ice-sheet buoyancy-driven calving discharge using glacial earthquakes, Annals of Glaciology, 2019 <a href="https://doi.org/10.1017/aog.2019.7" target="_blank">https://doi.org/10.1017/aog.2019.7</a>.
 
 - P. Bonnet, V.A. Yastrebov, P. Queutey, A. Leroyer, A. Mangeney, O. Castelnau, A. Sergeant, E. Stutzmann, J-P Montagner, Modelling iceberg capsize in the open ocean, GJI, 2020, <a href="https://doi.org/10.1093/gji/ggaa353" target="_blank">https://doi.org/10.1093/gji/ggaa353</a>
 
-- P. Bonnet, V.A. Yastrebov, A. Mangeney, O. Castelnau, P. Queutey, A. Leroyer, A. Sergeant, E. Stutzmann, J-P Montagner, Modelling the dynamics of iceberg - glacier - bedrock, in preparation
 
 ## EDUCATION
 
@@ -149,7 +168,8 @@ MOOSE-GE campaign on IFREMER Atalante ship, LOCEAN <br />
 Monitoring the impact of climate change on hydrology and biogeochemical cycles in the northwestern Mediterranean Sea
 
 ## CONFERENCES AND CONGRESS
- 
+
+ On our work on modelling of iceberg capsize and the source of glacial earthquakes :
 - Talk: EGU General Assembly 2021, online
 - Seminar: Seismology team, IPGP January 2020 Paris, France
 - Seminar: Mechanical simulation team, Mines ParisTech November 2020 Online, France
@@ -161,6 +181,15 @@ Monitoring the impact of climate change on hydrology and biogeochemical cycles i
 - Talk: TIDES Advance training school in environmental seismology, 2018, Prague, Czech Republic, 
 - Talk: POLAR 2018, Davos, Switzerland, SCAR/IASC Open Science Conference  
 - Poster: CDD PhD student conference, doctoral school STEP’UP, 2018, Paris :  Price for the best poster
+
+On our work on automatic tuning of parameters in Climate models:
+- Talk: USMILE Meeting, Valencia, October 2023
+- Talk: AGU, online, December 2023
+- Talk: USMILE Seminar, online, December 2024
+- Poster: Atmospheric Physics School, Bad Honnef, juillet 2022
+- Poster: EGU, Vienne, avril 2023
+- Talk: ICCARUS, online, March 2025
+- Talk: AI4PEX EU reviewers meeting, online, October 2025
 
 ## AWARDS & GRANTS
 - 2018 Best poster award - PhD Student Conference, IPGP, March 2018
@@ -190,21 +219,24 @@ October 2013 - June 2014 <br />
 40 hours of tutoring to high school students in the region of Paris
 
 ## SCIENTIFIC EVENTS AND OUTREACH
-- Climate Change Communication : facilitator of 10 Climate Fresk 3-hours workshops (2020-2022)
+- Climate Change Communication : facilitator of 25 Climate Fresk 3-hours workshops (2020-2022), and 2 Climate Fresk facilitation Trainings (2025-2026)
 - Scientific instructor : for the Girls on Ice expedition on the Findelen glacier, Switzerland (one week in 2021)
 - PhD and Postdocs delegate for the Seismology team of IPGP : co-organisation of seminars in Paris and in Normandy (2018-2020)
 - Moderator of a Doctoral School Seminar on Ecology in Academia : with Prof. Masson-Delmotte, Prof. Capet and Dr. Sevestre, online (2020)
 - Outreach in Earth and Space Seismology : at the Fête de la Science, IPGP and for the Landing of the Insight mission, Cité des Sciences, Paris (2018)
 - Outreach in Glaciology : webinar for APECS-France online (2020), article for children on Glaciology, in Les Romans, Je lis déjà, (Jan 2021)
 - Earth and Climate Sciences Poetry : Festival des Idées, Outreach event for Academia, IPGP, (2017 and 2019)
+- Seminars on Communication on Climate Change: DLR PhD Symposium (1h, 100 participants), ENSTA Alumni network (40min with Yona Silvy, IPCC, 50 participants), RESCUE projet workshop (15min 50 participantes), (2025, 2026) 
+- Organisation of a 24h webinar for the Fresh Eyes on CMIP network. Facilitation of a Science-for-Policy role playing game, moderation of a round table on careers inside and outside academia, and how to engage as a scientist. 
 
 ## LANGUAGES 
-- French : native speaker
-- English : proficient, 5 years in London as a child
-- German and Spanish : intermediate
+- French : native speaker, C2
+- English : proficient, 5 years in London as a child, C1
+- German : advanced, 4.5 years in Munich, B2 (Goethe Zertifikat, 2026)
+- Spanish : intermediate, B1
 - Japanese : basics
 
 ##  VOLUNTEERING AND HOBBIES
 - Red Cross volunteer : marauding in a Parisian district, organising a choir to raise funds for the local unit (2018-2020)
-- Scouts volunteer, group leader : pedagogical games, visits of a permaculture farm (2021-2023)
-- Arts and sports : 18 years of ballet and contemporary dance, canoe instructor in Hakuba Lyon Adventure Japan (2014), piano, choir, ukulélé, hiking, running, climbing, road bike, tennis
+- Scouts volunteer, group leader, trainer of new facilitators : pedagogical games, visits of a permaculture farm (2021-2023)
+- Arts and sports : 18 years of ballet and contemporary dance, canoe instructor in Hakuba Lyon Adventure Japan (2014), piano, choir, ukulélé, hiking, running, road bike, tennis
