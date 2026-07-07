@@ -8,9 +8,6 @@ Feel free to leave comments and contact me for any sort of reason :
 
 <!--  ( [Linkedin profile](https://www.linkedin.com/in/pauline-bonnet-phd-326b7084/) -->
 
-## SCIENTIFIC INTERESTS
-
-I am passionate about phenomena related to atmospheric physics, polar glaciers and powerful tools to study these physical processes such as numerical modelling and machine learning.
 
 ## CURRENTLY
 
