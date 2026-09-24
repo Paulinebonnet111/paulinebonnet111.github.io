@@ -30,7 +30,7 @@ In climate model development, “tuning” refers to the important process of ad
 - Selection and tuning of physical Parameters
 - Implementation of a machine learning based tuning method using history matching (python and C++ language)
 - Selection of reference datasets: observation and manually tuned previous model version 
-- Adjusting the method to fit physic and dynamic output metrics.   
+- Adjusting the method to fit physics and dynamics output metrics.   
 - Setting up a modelling regional modelling framework for predictions of renewable energy production 
 
 ### PhD in Mechanical Modelling of the Source of Glacial Earthquakes in Polar Region
